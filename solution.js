@@ -1,3 +1,5 @@
+//Author.wara ntem fridz eliezer
+
 // j'utilise 'const' car ces objets ne seront pas reassignes (on fera pas student1 = autreChose). le contenue de l'objet peut changer, mais pas la reference. 'let'  serait pour des variables qu'on  reassignera.
 const student1 = {name: 'Marie', age: 22, city: 'Yaounde', skills: ['HTML', 'CSS']};
 const student2 = {name: 'Paul', age: 25, city: 'Douala', skills: ['PYTHON', 'SQL']};
